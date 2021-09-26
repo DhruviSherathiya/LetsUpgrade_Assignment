@@ -2,12 +2,15 @@
 ## React JS for Beginners : Zero to Hero
 
 ### Day 1 : 25/09/2021 
-Assignment :
-Create 3 components and display on the web page, one of it should be a class component.
-<img src="https://github.com/DhruviSherathiya/LetsUpgrade_Assignment/blob/main/Day1/public/result.PNG">
+1.Introduction to React JS
 
-In above image I have created three components which are header,content and footer. For header and footer I have used **function based component** while for content I have used **class basded component.**
+2.Understand the core concepts of React JS, When it started, what is the reason React JS gaining popularity.
 
+3.Understanding components
+
+4.Understand one of the core building blocks of React JS. Work with JSX codes and learn how to render them on the screen.
+
+**Assignment :** Create 3 components and display on the web page, one of it should be a class component.
 
 ### Day 2 : 27/09/2021
 ### Day 3: 
