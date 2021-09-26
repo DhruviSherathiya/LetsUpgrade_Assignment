@@ -1,0 +1,18 @@
+.hd-class-1{
+    background-color:#000000;
+    margin-top:-20px;
+    text-align: center;
+    font-size:20px;
+}
+
+h1{
+    color:#ffff00;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    margin:20px;
+}
