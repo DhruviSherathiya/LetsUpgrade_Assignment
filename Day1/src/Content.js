@@ -1,5 +1,5 @@
 import reactDom,{ Component} from 'react';
-import './Content.css';
+import './Style.css';
 
 class Content extends Component{
     render(){
