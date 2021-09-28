@@ -1,0 +1,37 @@
+/* ----------------------------------------------------------------- CSS for Header ----------------------------------------------------------------------------- */
+.hd-class-1{
+    background-color:#000000;
+    margin-top:-20px;
+    text-align: center;
+    font-size:20px;
+}
+
+h1{
+    color:#ffff00;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    margin:20px;
+}
+
+/* ----------------------------------------------------------------- CSS for Content -------------------------------------------------------------------------------- */
+p{
+    text-align: justify;
+    font-size:18px;
+    margin:15px;
+}
+
+/* ----------------------------------------------------------------- CSS for Footer -------------------------------------------------------------------------------- */
+#foo{
+    background-color:#000000;
+    color:#ffff00;
+    margin-top:10vh;
+    height:30px;
+    text-align: center;
+}
+
+span {color:#ffffff;}
