@@ -12,6 +12,14 @@
 
 **Assignment :** Create 3 components and display on the web page, one of it should be a class component.
 
-### Day 2 : 27/09/2021
+### Day 2 : 28/09/2021
+1.Working with state and props
+
+2.Learn how data are passed between various components and how to work with them. Understand the difference between state and props and where they are used.
+
+3.Consuming API's in react
+
+4.Learn how to consume APIs in React JS which enables communication between the underlying APIs.
+
 ### Day 3: 
 
