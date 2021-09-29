@@ -21,5 +21,7 @@
 
 4.Learn how to consume APIs in React JS which enables communication between the underlying APIs.
 
+**Assignment :** Create a array of products and display all the products with a good css
+
 ### Day 3: 
 
