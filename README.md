@@ -23,5 +23,5 @@
 
 **Assignment :** Create a array of products and display all the products with a good css
 
-### Day 3: 
+
 
